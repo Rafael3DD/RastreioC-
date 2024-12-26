@@ -1,0 +1,14 @@
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\rastreioAPIC#.exe.config
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\rastreioAPIC#.exe
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\rastreioAPIC#.pdb
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\obj\Debug\rastreioAPIC#.csproj.AssemblyReference.cache
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\obj\Debug\rastreioAPIC_.telaPrincipal.resources
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\obj\Debug\rastreioAPIC_.Properties.Resources.resources
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\obj\Debug\rastreioAPIC#.csproj.GenerateResource.cache
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\obj\Debug\rastreioAPIC#.csproj.CoreCompileInputs.cache
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\obj\Debug\rastreioAPIC#.exe
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\obj\Debug\rastreioAPIC#.pdb
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\obj\Debug\rastreioAPIC_.telaCadastro.resources
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\obj\Debug\rastreio.57439978.Up2Date
