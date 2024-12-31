@@ -22,5 +22,10 @@ namespace rastreioAPIC_
             telaCadastro telacadastro = new telaCadastro();
             telacadastro.ShowDialog();
         }
+
+        private void buscar_Click(object sender, EventArgs e) {
+            telaBuscarProduto telaBuscarProduto = new telaBuscarProduto();
+            telaBuscarProduto.ShowDialog();
+        }
     }
 }

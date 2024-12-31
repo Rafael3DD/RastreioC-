@@ -3,12 +3,15 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
+using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Newtonsoft.Json;
 
+using rastreioAPIC_.API;
 namespace rastreioAPIC_
 {
     public partial class telaCadastro : Form
@@ -59,18 +62,16 @@ namespace rastreioAPIC_
                 destinationPostCode = destino.Text,
                 shippingDate = data.Value
             };
-            //string json = JsonSerializer.Serialize(dadosProduto, new JsonSerializerOptions { WriteIndented = true });
-            string dadosJson = JsonConvert.SerializeObject(dadosProduto);
 
+            cadastrar cad = new cadastrar();
+            cad.cadastrarProduto(dadosProduto);
 
-            Console.WriteLine(dadosJson);
+      
+        }
 
+        private void telaCadastro_Load(object sender, EventArgs e)
+        {
 
-
-            //Console.WriteLine(nomeProduto.Text);
-            //Console.WriteLine(codigoRastreio.Text);
-            //Console.WriteLine(destino.Text);
-            //Console.WriteLine(data.Value);
         }
     }
 }

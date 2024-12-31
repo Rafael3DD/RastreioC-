@@ -1,70 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|c:\\users\\rafac\\source\\repos\\rastreioapic#\\rastreioapic#\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|solutionrelative:rastreioapic#\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|c:\\users\\rafac\\source\\repos\\rastreioapic#\\rastreioapic#\\telacadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|solutionrelative:rastreioapic#\\telacadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|c:\\users\\rafac\\source\\repos\\rastreioapic#\\rastreioapic#\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|solutionrelative:rastreioapic#\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "telaCadastro.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaCadastro.Designer.cs",
-              "RelativeDocumentMoniker": "rastreioAPIC#\\telaCadastro.Designer.cs",
-              "ToolTip": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaCadastro.Designer.cs",
-              "RelativeToolTip": "rastreioAPIC#\\telaCadastro.Designer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAawJMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T19:02:17.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "telaCadastro.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaCadastro.cs",
-              "RelativeDocumentMoniker": "rastreioAPIC#\\telaCadastro.cs",
-              "ToolTip": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaCadastro.cs",
-              "RelativeToolTip": "rastreioAPIC#\\telaCadastro.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAIwDcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T18:57:18.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "telaCadastro.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaCadastro.cs",
-              "RelativeDocumentMoniker": "rastreioAPIC#\\telaCadastro.cs",
-              "ToolTip": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaCadastro.cs [Design]",
-              "RelativeToolTip": "rastreioAPIC#\\telaCadastro.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T18:57:14.408Z",
-              "EditorCaption": " [Design]"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

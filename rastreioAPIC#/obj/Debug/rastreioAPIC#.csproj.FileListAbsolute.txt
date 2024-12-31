@@ -12,3 +12,14 @@ C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\obj\Debug\rastreioAPIC_.
 C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Newtonsoft.Json.dll
 C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Newtonsoft.Json.xml
 C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\obj\Debug\rastreio.57439978.Up2Date
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\DotNetEnv.dll
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Sprache.dll
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Sprache.xml
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
