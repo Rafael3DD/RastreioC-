@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using rastreioAPIC_.API;
+using static rastreioAPIC_.telaCadastro;
 
 namespace rastreioAPIC_
 {
@@ -23,9 +25,22 @@ namespace rastreioAPIC_
             telacadastro.ShowDialog();
         }
 
-        private void buscar_Click(object sender, EventArgs e) {
-            telaBuscarProduto telaBuscarProduto = new telaBuscarProduto();
+
+
+        private async void buscar_Click(object sender, EventArgs e) {
+            buscar buscar =  new buscar();
+            dynamic produtos = await buscar.buscarProdutos();
+
+            foreach (var prod in produtos) {
+                Console.WriteLine(prod);
+
+            }
+
+            telaBuscarProduto telaBuscarProduto = new telaBuscarProduto(produtos);
             telaBuscarProduto.ShowDialog();
+
+            
+
         }
     }
 }

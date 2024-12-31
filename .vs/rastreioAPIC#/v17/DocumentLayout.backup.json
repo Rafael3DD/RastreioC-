@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|c:\\users\\rafac\\source\\repos\\rastreioapic#\\rastreioapic#\\telabuscarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|solutionrelative:rastreioapic#\\telabuscarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|c:\\users\\rafac\\source\\repos\\rastreioapic#\\rastreioapic#\\telabuscarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|solutionrelative:rastreioapic#\\telabuscarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -11,8 +15,12 @@
       "RelativeMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|solutionrelative:rastreioapic#\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|c:\\users\\rafac\\source\\repos\\rastreioapic#\\rastreioapic#\\telabuscarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|solutionrelative:rastreioapic#\\telabuscarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioapic#\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|solutionrelative:rastreioapic#\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|c:\\users\\rafac\\source\\repos\\rastreioapic#\\rastreioapic#\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289F4DFC-22D7-4F08-9BD3-0EE0D1E4CE92}|rastreioAPIC#\\rastreioAPIC#.csproj|solutionrelative:rastreioapic#\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "telaPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaPrincipal.cs",
+              "RelativeDocumentMoniker": "rastreioAPIC#\\telaPrincipal.cs",
+              "ToolTip": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaPrincipal.cs [Design]",
+              "RelativeToolTip": "rastreioAPIC#\\telaPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:34:27.913Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "telaBuscarProduto.cs",
               "DocumentMoniker": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaBuscarProduto.cs",
               "RelativeDocumentMoniker": "rastreioAPIC#\\telaBuscarProduto.cs",
               "ToolTip": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaBuscarProduto.cs",
               "RelativeToolTip": "rastreioAPIC#\\telaBuscarProduto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwEgAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T04:42:51.041Z",
+              "WhenOpened": "2024-12-31T18:24:44.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "telaPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaPrincipal.cs",
-              "RelativeDocumentMoniker": "rastreioAPIC#\\telaPrincipal.cs",
-              "ToolTip": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaPrincipal.cs",
-              "RelativeToolTip": "rastreioAPIC#\\telaPrincipal.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIAwwBEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T04:37:27.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "telaBuscarProduto.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaBuscarProduto.cs",
               "RelativeDocumentMoniker": "rastreioAPIC#\\telaBuscarProduto.cs",
               "ToolTip": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaBuscarProduto.cs [Design]",
               "RelativeToolTip": "rastreioAPIC#\\telaBuscarProduto.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T04:34:50.459Z",
+              "WhenOpened": "2024-12-31T18:23:29.72Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "telaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaPrincipal.cs",
+              "RelativeDocumentMoniker": "rastreioAPIC#\\telaPrincipal.cs",
+              "ToolTip": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaPrincipal.cs",
+              "RelativeToolTip": "rastreioAPIC#\\telaPrincipal.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T18:22:58.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "telaCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaCadastro.cs",
+              "RelativeDocumentMoniker": "rastreioAPIC#\\telaCadastro.cs",
+              "ToolTip": "C:\\Users\\rafac\\source\\repos\\rastreioAPIC#\\rastreioAPIC#\\telaCadastro.cs",
+              "RelativeToolTip": "rastreioAPIC#\\telaCadastro.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAWwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:39:53.734Z",
+              "EditorCaption": ""
             }
           ]
         }

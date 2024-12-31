@@ -23,3 +23,4 @@ C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Microsoft.Exte
 C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Microsoft.Extensions.Primitives.xml
 C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\Sprache.xml
 C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rafac\source\repos\rastreioAPIC#\rastreioAPIC#\obj\Debug\rastreioAPIC_.telaBuscarProduto.resources

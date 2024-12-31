@@ -195,7 +195,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="API\buscar.cs" />
     <Compile Include="API\cadastrar.cs" />
+    <Compile Include="API\rastrear.cs" />
     <Compile Include="telaBuscarProduto.cs">
       <SubType>Form</SubType>
     </Compile>
